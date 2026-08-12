@@ -1,0 +1,11 @@
+# GenesisBeast v5.0 Requirements
+
+# Core UI Library
+rich>=10.0.0
+
+# HTTP Requests
+requests>=2.25.0
+
+# Optional but Recommended
+psutil>=5.8.0
+termux-api>=0.0.1
