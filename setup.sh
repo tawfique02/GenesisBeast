@@ -25,7 +25,7 @@ echo -e "${CYAN}"
 echo "╔══════════════════════════════════════════════════════════════════╗"
 echo "║   📱 GENESIS BEAST v5.0 - MOBILE FORENSIC SUITE                  ║"
 echo "║   🔍 The World's First Complete Mobile Forensic Tool for Termux  ║"
-echo "║   👨‍💻 Developer: tawfique02 | 🔗 github.com/tawfique02           ║"
+echo "║   👨‍💻 Developer: tawfique02 | 🔗 github.com/tawfique02          ║"
 echo "╚══════════════════════════════════════════════════════════════════╝"
 echo -e "${NC}"
 
