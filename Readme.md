@@ -46,10 +46,3 @@ Built with Python and Rich UI, GenesisBeast offers an intuitive interactive inte
 | 📊 **Reporting** | HTML, JSON, TXT Professional Reports |
 
 ---
-
-## 🛠️ Installation
-
-### ⚡ One-Line Installer (Recommended)
-
-```bash
-curl -sSL https://raw.githubusercontent.com/tawfique02/genesisbeast/main/install.sh | bash
