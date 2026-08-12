@@ -1,20 +1,26 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=500&lines=GenesisBeast+v5.0;Mobile+Forensic+Suite;Android+Termux+Edition" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=GenesisBeast+v5.0;Mobile+Forensic+Suite;Android+Termux+Edition" alt="Typing SVG" />
 </p>
+
+<br>
 
 <div align="center">
 
-# 📱 GenesisBeast v5.0
+# <span style="font-size: 3em;">📱 GenesisBeast v5.0</span>
 
-### 🔍 The World's First Complete Mobile Forensic Suite for Termux
+### <span style="font-size: 1.5em;">🔍 The World's First Complete Mobile Forensic Suite for Termux</span>
 
-[![Python](https://img.shields.io/badge/Python-3.8+-00FF00?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Termux-000000?style=flat-square&logo=android&logoColor=white)](https://termux.com)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
-[![GitHub](https://img.shields.io/badge/GitHub-tawfique02-blue?style=flat-square&logo=github)](https://github.com/tawfique02)
+<br>
+
+[![Python](https://img.shields.io/badge/Python-3.8+-00FF00?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Termux-000000?style=for-the-badge&logo=android&logoColor=white)](https://termux.com)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
+[![GitHub](https://img.shields.io/badge/GitHub-tawfique02-181717?style=for-the-badge&logo=github)](https://github.com/tawfique02)
 
 </div>
+
+<br>
 
 ---
 
